@@ -1,0 +1,1 @@
+A simple git example, we are going to create several files
